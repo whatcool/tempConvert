@@ -15,6 +15,6 @@ Converts temp from Kelvin to Fahrenheit and to Celsius simultaneously.
 ## Run
 Download the project file by typing command in your terminal:
 ```
-  wget https://github.com/whatcool/tempConvert.git
+  git clone https://github.com/whatcool/tempConvert.git
 ```
 Now run the index.html file
